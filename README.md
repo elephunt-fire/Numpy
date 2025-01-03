@@ -41,4 +41,4 @@ import numpy as np
 - [Numpy Doc](https://numpy.org/doc/)
 - [Numpy Guide](https://numpy.org/doc/stable/user/index.html)
 
-Author : Aayush-env
+Author : elephunt-fire
